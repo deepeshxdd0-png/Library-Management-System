@@ -1,0 +1,88 @@
+================================================================================
+LIBRARY MANAGEMENT SYSTEM - COMPREHENSIVE ANALYTICS REPORT
+================================================================================
+Generated on: 2025-11-07 00:00:00
+
+--------------------------------------------------------------------------------
+1. TOP 5 MOST PROLIFIC AUTHORS
+--------------------------------------------------------------------------------
+1. Unknown Author
+   Nationality: 
+   Book Count: 30
+
+--------------------------------------------------------------------------------
+2. BORROWING TRENDS BY MONTH
+--------------------------------------------------------------------------------
+No borrowing data available.
+
+--------------------------------------------------------------------------------
+3. BORROWING TRENDS BY GENRE
+--------------------------------------------------------------------------------
+No genre data available.
+
+--------------------------------------------------------------------------------
+4. TOP 10 MOST POPULAR BOOKS (BY BORROWING FREQUENCY)
+--------------------------------------------------------------------------------
+1. A Modest Proposal by Jonathan Swift
+   ISBN: PG001080
+   Borrow Count: 0
+   Availability: 1/1
+
+2. A Tale of Two Cities by Charles Dickens
+   ISBN: PG000098
+   Borrow Count: 0
+   Availability: 1/1
+
+3. Alice's Adventures in Wonderland by Lewis Carroll
+   ISBN: PG000011
+   Borrow Count: 0
+   Availability: 1/1
+
+4. Beowulf: An Anglo-Saxon Epic Poem by J. Lesslie Hall
+   ISBN: PG016328
+   Borrow Count: 0
+   Availability: 1/1
+
+5. Emma by Jane Austen
+   ISBN: PG000158
+   Borrow Count: 0
+   Availability: 1/1
+
+6. Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley
+   ISBN: PG000084
+   Borrow Count: 0
+   Availability: 1/1
+
+7. Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm
+   ISBN: PG002591
+   Borrow Count: 0
+   Availability: 1/1
+
+8. Howard Pyle's Book of Pirates by Howard Pyle
+   ISBN: PG000973
+   Borrow Count: 0
+   Availability: 1/1
+
+9. Moby Dick; Or, The Whale by Herman Melville
+   ISBN: PG002701
+   Borrow Count: 0
+   Availability: 1/1
+
+10. Pride and Prejudice by Jane Austen
+   ISBN: PG001342
+   Borrow Count: 0
+   Availability: 1/1
+
+--------------------------------------------------------------------------------
+5. ACTIVE MEMBERS (Last 90 Days, 3+ Borrows)
+--------------------------------------------------------------------------------
+No active members found.
+
+--------------------------------------------------------------------------------
+6. OVERDUE BOOKS WITH CALCULATED FINES
+--------------------------------------------------------------------------------
+No overdue books found.
+
+================================================================================
+END OF REPORT
+================================================================================
